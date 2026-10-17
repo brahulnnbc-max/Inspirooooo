@@ -1,0 +1,6 @@
+{
+  "name": "JEE CBT Test Series (MathonGo & NTA Mode)",
+  "description": "Convert any JEE question paper PDF into an authentic Computer-Based Test with official NTA and MathonGo exam interfaces, live countdown timer, question palette, and detailed post-test analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
